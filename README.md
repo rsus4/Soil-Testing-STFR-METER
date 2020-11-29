@@ -3,4 +3,4 @@
 * Researched and identified reagent compounds to determine relevant solvent concentrations for specific parameter testing via a photo colorimeter.
 * Designed and built the user interface and logistical workflow for instrument usage.
 
-## The code of the given project can't be shared on GitHub as it is the proprietarycode of the company
+## The code of the given project can't be shared on GitHub as it is the proprietary code of the company
